@@ -1,0 +1,180 @@
+=> [[32m#<Flat:0x00007fa9b4383e88[0m
+  id: [1;34m1[0m,
+  title: [31m[1;31m"[0m[31mRed Pub[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mPort Clintonhaven[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mTo deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.[1;31m"[0m[31m[0m,
+  user_id: [1;34m8[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444d530[0m
+  id: [1;34m2[0m,
+  title: [31m[1;31m"[0m[31mSalty BBQ[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mSouth Sharita[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mOur mission is to be a leader in the distribution and merchandising of food, pharmacy, health and personal care items, seasonal merchandise, and related products and services. We place considerable importance on forging strong supplier partnerships. Our suppliers, large or small, local or global, are essential components in accomplishing our mission.[1;31m"[0m[31m[0m,
+  user_id: [1;34m4[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444d378[0m
+  id: [1;34m3[0m,
+  title: [31m[1;31m"[0m[31mTGG Shakes[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mPort Cristalmouth[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mTo sell delicious and remarkable food and drinks. That the food and drink we sell meets the highest standards of quality, freshness and seasonality and combines both modern-creative and traditional southern styles of cooking. To consistently provide our customers with impeccable service by demonstrating warmth, graciousness, efficiency, knowledge, professionalism and integrity in our work. To have every customer who comes through our doors leave impressed by Maxie’s and excited to come back again. To create and maintain a restaurant that is comprehensive and exceptional in its attention to every detail of operation. To provide all who work with us a friendly, cooperative and rewarding environment which encourages long- term, satisfying, growth employment. To keep our concept fresh, exciting and on the cutting edge of the hospitality and entertainment industry. To be a giving member of the Ithaca community and to use our restaurant to improve the quality of life in the Finger Lakes region.[1;31m"[0m[31m[0m,
+  user_id: [1;34m9[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444d1c0[0m
+  id: [1;34m4[0m,
+  title: [31m[1;31m"[0m[31mHungry Sushi[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mKitshire[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mYoshinoya is in business to create the structure and systems needed to allow our customers access to the majority of their away-from-home daily meal requirements on a one-stop-shop basis. All our products shall be of the highest quality and value, be healthy, nutritious and provided with outstanding personal services at the lowest possible prices consistent with a fair return on investment for our shareholders, job enhancementsecurity for our employees and a level of community involvement by everyone connected with our business. All of our products and services shall be delivered consistently and measured one satisfied customer at a time, whether by company-owned or franchised operations, in superior, clean, convenient, fun and friendly neighborhood environments. We pledge to make Yoshinoya the best place to eat and the best place to work.[1;31m"[0m[31m[0m,
+  user_id: [1;34m4[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444d0d0[0m
+  id: [1;34m5[0m,
+  title: [31m[1;31m"[0m[31mThirsty Shakes[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mSouth Hayden[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mCulver’s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver’s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.[1;31m"[0m[31m[0m,
+  user_id: [1;34m10[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444d008[0m
+  id: [1;34m6[0m,
+  title: [31m[1;31m"[0m[31mRed Cafe[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mWest Lupeview[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mCulver’s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver’s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.[1;31m"[0m[31m[0m,
+  user_id: [1;34m7[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444cef0[0m
+  id: [1;34m7[0m,
+  title: [31m[1;31m"[0m[31mRed Eats[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mRupertview[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mWe earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.[1;31m"[0m[31m[0m,
+  user_id: [1;34m1[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444cba8[0m
+  id: [1;34m8[0m,
+  title: [31m[1;31m"[0m[31mRed Spoon[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mWest Rosannemouth[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mWe earn the loyalty of the people we serve by first anticipating, then fulfilling their needs with our superior-quality products, a unique shopping experience, customer-focused service and continuous innovation, while generating long-term profitable growth for our shareholders.[1;31m"[0m[31m[0m,
+  user_id: [1;34m5[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444c978[0m
+  id: [1;34m9[0m,
+  title: [31m[1;31m"[0m[31mSalty Burger[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mNorth Librada[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mTo ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price – nutritional, well-prepared meals – using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.[1;31m"[0m[31m[0m,
+  user_id: [1;34m4[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444c810[0m
+  id: [1;34m10[0m,
+  title: [31m[1;31m"[0m[31mFat Kitchen[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mSouth Dwaynefort[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mOur Mission at Denny’s is to establish beneficial business relationships with diverse suppliers who share our commitment to customer service, quality and competitive pricing.[1;31m"[0m[31m[0m,
+  user_id: [1;34m10[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444c6d0[0m
+  id: [1;34m11[0m,
+  title: [31m[1;31m"[0m[31mBlue Plate Subs[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mNorth Aracelisview[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mSVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.[1;31m"[0m[31m[0m,
+  user_id: [1;34m3[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444c4f0[0m
+  id: [1;34m12[0m,
+  title: [31m[1;31m"[0m[31mOrange Box[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mNorth Jameymouth[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mCulver’s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver’s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.[1;31m"[0m[31m[0m,
+  user_id: [1;34m7[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444c3d8[0m
+  id: [1;34m13[0m,
+  title: [31m[1;31m"[0m[31m6541 Steakhouse[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mEast Robbyn[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mDelhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.[1;31m"[0m[31m[0m,
+  user_id: [1;34m6[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b444c220[0m
+  id: [1;34m14[0m,
+  title: [31m[1;31m"[0m[31mBlue Plate Sushi[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mNew Krystinaborough[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mTo ensure that each guest receives prompt, professional, friendly and courteous service. To maintain a clean, comfortable and well maintained premises for our guests and staff. To provide at a fair price – nutritional, well-prepared meals – using only quality ingredients. To ensure that all guests and staff are treated with the respect and dignity they deserve. To thank each guest for the opportunity to serve them. By maintaining these objectives we shall be assured of a fair profit that will allow us to contribute to the community we serve.[1;31m"[0m[31m[0m,
+  user_id: [1;34m2[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b4456270[0m
+  id: [1;34m15[0m,
+  title: [31m[1;31m"[0m[31mDX Creamery[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mWest Todd[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mSVIs mission is to deliver quality products at affordable prices to our independent retailers, wholesalers and food service partners around the world by providing international procurement, distribution, marketing and supply chain management.[1;31m"[0m[31m[0m,
+  user_id: [1;34m9[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b4457e90[0m
+  id: [1;34m16[0m,
+  title: [31m[1;31m"[0m[31m2930 Bar & Grill[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mSouth Damarisfurt[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mTo deliver an exceptional shopping experience by offering the best service, value, quality, and freshest products while being good stewards of our environment and giving back to the communities we serve.[1;31m"[0m[31m[0m,
+  user_id: [1;34m3[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b4457c88[0m
+  id: [1;34m17[0m,
+  title: [31m[1;31m"[0m[31mSugar Steakhouse[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mPort Treva[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mOur mission has been to help people achieve their health and wellness goals. though weve changed over the years, our values have remained the same.[1;31m"[0m[31m[0m,
+  user_id: [1;34m6[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b4457aa8[0m
+  id: [1;34m18[0m,
+  title: [31m[1;31m"[0m[31mSmokestack Burger[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mDaleshire[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mCulver’s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver’s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.[1;31m"[0m[31m[0m,
+  user_id: [1;34m7[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b4457968[0m
+  id: [1;34m19[0m,
+  title: [31m[1;31m"[0m[31mSilver Brasserie[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mWest Alfredo[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mDelhaize Group will achieve leading positions in food retailing in key mature and emerging markets. We accomplish our goal by developing strong regional companies benefiting from and contributing to the Groups strength, expertise and successful practices. Delhaize Group goes to market with a variety of food store formats. The Group is committed to offer a locally differentiated shopping experience to its customers in each of its markets, to deliver superior value and to maintain high social, environmental and ethical standards.[1;31m"[0m[31m[0m,
+  user_id: [1;34m8[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ [32m#<Flat:0x00007fa9b44578a0[0m
+  id: [1;34m20[0m,
+  title: [31m[1;31m"[0m[31mFast Brasserie[1;31m"[0m[31m[0m,
+  location: [31m[1;31m"[0m[31mHermanmouth[1;31m"[0m[31m[0m,
+  description:
+   [31m[1;31m"[0m[31mCulver’s Restaurant was founded by the Culver family in 1984, which eventually branched out to more than 300 franchised restaurants all over the US. Culver’s is well-known for its ButterBurger, which made the restaurant extremely famous. They also have other items which include salads, sandwiches, desserts, etc.[1;31m"[0m[31m[0m,
+  user_id: [1;34m5[0m,
+  created_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+  updated_at: [1;34;4mTue[0m, [1;34m26[0m [1;34;4mMay[0m [1;34m2020[0m [1;34m09[0m:[1;34m38[0m:[1;34m33[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m]
