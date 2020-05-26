@@ -18,6 +18,7 @@ gem 'webpacker'
 
 # gems that I have added
 gem 'faker'
+gem 'geocoder'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
