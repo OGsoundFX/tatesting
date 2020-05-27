@@ -1,5 +1,15 @@
 <h1>Hello, Here is the list of flats</h1>
 
+<h4>Search your Flat</h4>
+<%= form_tag flats_path, method: :get do %>
+  <%= text_field_tag :query,
+    params[:query],
+    class: "form-control",
+    placeholder: "Find a flat"
+  %>
+  <%= submit_tag "Search", class: "btn btn-primary" %>
+<% end %>
+
 <div class="container">
   <ul>
     <% @flats.each do |flat| %>
