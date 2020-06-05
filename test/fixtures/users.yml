@@ -1,0 +1,9 @@
+user1:
+  id: 1
+  email: "goodbye@gmail.com"
+  encrypted_password: "123456"
+
+user2:
+  id: 2
+  email: "hello@gmail.com"
+  encrypted_password: "123456"

@@ -1,0 +1,11 @@
+flat1:
+  user_id: 1
+  title: "Lovely flat"
+  location: "London"
+  description: "Near Big Ben"
+
+flat2:
+  user_id: 1
+  title: "Bel appartement"
+  location: "Paris"
+  description: "located near the Buttes Chaumont"
