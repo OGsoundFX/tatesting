@@ -56,6 +56,8 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
     autoprefixer-rails (9.7.6)
       execjs
     bcrypt (3.1.13)
@@ -64,6 +66,15 @@ GEM
       msgpack (~> 1.0)
     builder (3.2.4)
     byebug (11.1.3)
+    capybara (3.32.2)
+      addressable
+      mini_mime (>= 0.1.3)
+      nokogiri (~> 1.8)
+      rack (>= 1.6.0)
+      rack-test (>= 0.6.3)
+      regexp_parser (~> 1.5)
+      xpath (~> 3.2)
+    childprocess (3.0.0)
     coderay (1.1.3)
     concurrent-ruby (1.1.6)
     crass (1.0.6)
@@ -91,6 +102,8 @@ GEM
       concurrent-ruby (~> 1.0)
     jbuilder (2.10.0)
       activesupport (>= 5.0.0)
+    launchy (2.5.0)
+      addressable (~> 2.7)
     listen (3.0.8)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
@@ -123,6 +136,7 @@ GEM
       pry (~> 0.13.0)
     pry-rails (0.3.9)
       pry (>= 0.10.4)
+    public_suffix (4.0.5)
     puma (4.3.5)
       nio4r (~> 2.0)
     rack (2.2.2)
@@ -161,9 +175,11 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     redis (4.1.4)
+    regexp_parser (1.7.0)
     responders (3.0.1)
       actionpack (>= 5.0)
       railties (>= 5.0)
+    rubyzip (2.3.0)
     sassc (2.3.0)
       ffi (~> 1.9)
     sassc-rails (2.1.2)
@@ -172,6 +188,9 @@ GEM
       sprockets (> 3.0)
       sprockets-rails
       tilt
+    selenium-webdriver (3.142.7)
+      childprocess (>= 0.5, < 4.0)
+      rubyzip (>= 1.2.2)
     semantic_range (2.3.0)
     simple_form (5.0.2)
       actionpack (>= 5.0)
@@ -201,6 +220,10 @@ GEM
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
       railties (>= 6.0.0)
+    webdrivers (4.4.1)
+      nokogiri (~> 1.6)
+      rubyzip (>= 1.3.0)
+      selenium-webdriver (>= 3.0, < 4.0)
     webpacker (5.1.1)
       activesupport (>= 5.2)
       rack-proxy (>= 0.6.1)
@@ -209,6 +232,8 @@ GEM
     websocket-driver (0.7.2)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.4)
+    xpath (3.2.0)
+      nokogiri (~> 1.8)
     zeitwerk (2.3.0)
 
 PLATFORMS
@@ -217,12 +242,14 @@ PLATFORMS
 DEPENDENCIES
   autoprefixer-rails
   bootsnap
+  capybara
   devise
   dotenv-rails
   faker
   font-awesome-sass (~> 5.12.0)
   geocoder
   jbuilder (~> 2.0)
+  launchy
   listen (~> 3.0.5)
   pg (~> 0.21)
   pg_search (~> 2.3.0)
@@ -237,6 +264,7 @@ DEPENDENCIES
   spring-watcher-listen (~> 2.0.0)
   uglifier
   web-console (>= 3.3.0)
+  webdrivers (~> 4.0)
   webpacker
 
 RUBY VERSION
