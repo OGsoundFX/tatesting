@@ -13,6 +13,7 @@ class FlatsController < ApplicationController
         infoWindow: render_to_string(partial: "info_window", locals: { flat: flat })
       }
     end
+    authorize @flats
   end
 
   def show
@@ -27,5 +28,8 @@ class FlatsController < ApplicationController
         infoWindow: render_to_string(partial: "info_window", locals: { flat: flat })
       }
     end
+    authorize @flat
+    authorize @flats
+    # authorize @markers
   end
 end
