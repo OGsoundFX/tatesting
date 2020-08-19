@@ -1,6 +1,8 @@
 <h1><%= @flat.title %></h1>
 <p><%= @flat.description %></p>
 
+<%= link_to "delete", flat_path(@flat), method: :delete %>
+
 <div id="map"
   style="width: 100%; height: 600px;"
   data-markers="<%= @marker.to_json %>"
